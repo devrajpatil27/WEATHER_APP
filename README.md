@@ -21,9 +21,7 @@ The project can be organized into the following files:
 
 1. `index.html`: The main HTML file that contains the structure of the webpage. It includes the necessary HTML elements for input fields, weather display, and error messages.
 
-2. `styles.css`: The CSS file that provides the styling for the webpage. It defines the layout, colors, fonts, and other visual aspects.
-
-3. `script.js`: The JavaScript file that handles the dynamic behavior of the webpage. It includes functions to fetch weather data from the API, update the displayed information, and handle user interactions.
+2. `script.js`: The JavaScript file that handles the dynamic behavior of the webpage. It includes functions to fetch weather data from the API, update the displayed information, and handle user interactions.
 
 ## Getting Started
 
